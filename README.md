@@ -1,1 +1,0 @@
-# react-filter-sort-method
